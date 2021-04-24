@@ -17,7 +17,7 @@ ws1.range('A2').options(transpose=True).value= cities
 ws1.range('D2').options(transpose=True).value= units
 ws1.range('E2').options(transpose=True).value= updates
 
-apikey="b9415f7599fb9b6a40714f9448bc1f24"
+apikey="b9415f7599fb9b6a40714f9448bc1__4"
 
 def update_temp():
     for i,c in enumerate(cities):
